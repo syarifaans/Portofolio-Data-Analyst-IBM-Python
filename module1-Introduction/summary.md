@@ -1,0 +1,1 @@
+In this module, I learned the basics of data analysis using Python. The material covered understanding problems that require data analysis, introduction to datasets, use of Python libraries for data science, and the process of importing and exporting data. In addition, this module explained how to gain initial insights from a dataset using simple analysis techniques.
