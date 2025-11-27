@@ -44,15 +44,15 @@ In this course, I learned:
 - GridSearch  
 
 ## 🗂 Struktur Repository
-module1-Introduction/
-module2-Data-Wrangling/
-module3-Exploratory-Data-Analysis/
-module4-Model-Development/
-module5-Model-Evaluation/
-datasets/
+- module1-Introduction/
+- module2-Data-Wrangling/
+- module3-Exploratory-Data-Analysis/
+- module4-Model-Development/
+- module5-Model-Evaluation/
+- datasets/
 
 ## Status Course
-Sedang berlangsung / Selesai (pilih salah satu)
+Currently in progress
 
 ## Sertifikat
-Akan ditambahkan setelah course selesai.
+Will be added after the course is completed
