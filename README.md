@@ -43,7 +43,7 @@ In this course, I learned:
 - Ridge Regression  
 - GridSearch  
 
-## 🗂 Struktur Repository
+## 🗂 Repository Structure
 - module1-Introduction/
 - module2-Data-Wrangling/
 - module3-Exploratory-Data-Analysis/
@@ -54,5 +54,5 @@ In this course, I learned:
 ## Status Course
 Currently in progress
 
-## Sertifikat
+## Certificate
 Will be added after the course is completed
